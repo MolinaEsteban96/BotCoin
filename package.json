@@ -1,0 +1,25 @@
+{
+  "name": "botcoin",
+  "version": "0.1.0",
+  "description": "Bot de finanzas para Discord",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "botcoin",
+    "bitcoin",
+    "bot",
+    "command",
+    "discord"
+  ],
+  "author": "Esteban",
+  "license": "ISC",
+  "devDependencies": {
+    "coingecko-api": "^1.0.10",
+    "discord.js": "^12.5.1",
+    "node-fetch": "^2.6.1",
+    "nodemon": "^2.0.7",
+    "sequelize": "^6.5.0"
+  }
+}
